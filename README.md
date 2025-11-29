@@ -1,1 +1,1 @@
-# parallel-computing-CSCI-UA-480
+# Parallel-Computing-CSCI-UA-480
